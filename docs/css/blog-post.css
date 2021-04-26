@@ -1,0 +1,23 @@
+/*!
+ * Start Bootstrap - Blog Post (https://startbootstrap.com/template/blog-post)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-blog-post/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+  background-color: #b65d5d;
+
+}
+
+
+
+p {
+color: white;
+text-align: justify;
+}
+
+
+h1 {
+	font-family: Garamond;
+}
+
